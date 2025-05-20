@@ -1,15 +1,37 @@
-🎧 Money Trees Podcast: AI-Assisted Note-Taking Workflow
-This repository demonstrates how to use Google Gemmi (AI assistant) and Google Keep to create structured, summarized notes from NPR’s Money Trees podcast (Planet Money). Below, you’ll find a visual walkthrough of my process, with screenshots at each step.
+# 🎧 AI-Powered Podcast Note-Taking System
 
-1. Listening to the Podcast
-![Listening to the Money Trees podcast on NPR](https://github.com/zwanski2019/podcast-notes-npr-money-trace/blob/main/Listening%20to%20the%20Money%20Trees%20podcast%20on%20N "Money Trees" episode from NPR's Planet Money to begin the note-taking process.*
+![Project Banner](https://via.placeholder.com/1200x400.png?text=AI+Podcast+Notes+Workflow) <!-- Add your own banner image -->
 
-2. Using Google Gemmi to Summarize Content
-![Using Google Gemmi to summarize podcast content via voice commands](https://github.com/zwanski2019/podcast-notes-npr-money-trace/blob/main/Using%20Google%20Gemmi%20to%20summarize%20podcast%20content%20viaIssuing voice/text prompts to Google Gemmi to generate real-time summaries and key points from the podcast.*
+A streamlined workflow for transforming NPR's Planet Money "Money Trees" podcast episodes into organized, AI-enhanced notes using Google Gemini and Google Keep.
 
-3. Google Gemmi Generating AI-Assisted Notes
-![Google Gemmi generating AI-assisted notes](https://github.com/zwanski2019/podcast-notes-npr-money-trace/blob/main/Google%20Gemmi%20generating%20AI-assisted detailed, AI-generated notes and insights for efficient summarization.*
+[![GitHub Stars](https://img.shields.io/github/stars/zwanski2019/podcast-notes-npr-money-trace?style=flat-square)]()
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)]()
 
-4. Saving Summarized Notes to Google Keep
-![Saving summarized notes to Google Keep for easy access](https://github.com/zwanski2019/podcast-notes-npr-money-trace/blob/main/Saving%20summarized%20notes%20to%20Google%20Keep%20forizing and storing the summarized notes in Google Keep for future study and easy access across devices.*
+## 🌟 Features
 
+- **AI-Powered Summarization**: Leverage Google Gemini for real-time insights
+- **Cross-Platform Sync**: Seamless integration with Google Keep
+- **Structured Documentation**: Step-by-step visual guide
+- **Multi-Device Access**: Cloud-based note management
+
+## 📋 Workflow Overview
+
+### 1. Podcast Listening Phase
+![Listening Interface](https://github.com/zwanski2019/podcast-notes-npr-money-trace/blob/main/Listening%20to%20the%20Money%20Trees%20podcast%20on%20NPR.png "Podcast Player Interface")
+
+**"Money Trees" Episode Selection**  
+Begin with NPR's Planet Money episode focusing on financial ecosystems. Ideal for:
+- Financial enthusiasts
+- Economics students
+- AI workflow researchers
+
+---
+
+### 2. AI Processing Stage
+![Gemini Interface](https://github.com/zwanski2019/podcast-notes-npr-money-trace/blob/main/Using%20Google%20Gemmi%20to%20summarize%20podcast%20content%20via.png "Google Gemini AI Interaction")
+
+**Google Gemini Commands**  
+```markdown
+1. "Summarize key financial concepts from current podcast"
+2. "Identify main arguments about money ecosystems"
+3. "Extract 5 actionable financial insights"
