@@ -17,7 +17,8 @@ A streamlined workflow for transforming NPR's Planet Money "Money Trees" podcast
 ## 📋 Workflow Overview
 
 ### 1. Podcast Listening Phase
-![Listening Interface](https://github.com/zwanski2019/podcast-notes-npr-money-trace/blob/main/Listening%20to%20the%20Money%20Trees%20podcast%20on%20NPR.png "Podcast Player Interface")
+![Listening Interface](![image](https://github.com/user-attachments/assets/95949e0a-fe16-419f-9934-18fcd354b15f)
+")
 
 **"Money Trees" Episode Selection**  
 Begin with NPR's Planet Money episode focusing on financial ecosystems. Ideal for:
