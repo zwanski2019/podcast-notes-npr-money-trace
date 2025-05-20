@@ -1,38 +1,48 @@
 # 🎧 AI-Powered Podcast Note-Taking System
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=AI+Podcast+Notes+Workflow) <!-- Add your own banner image -->
+![Project Banner](https://via.placeholder.com/1200x400.png?text=AI+Podcast+Notes+Workflow+by+zwanski2019) <!-- Replace with your banner -->
 
-A streamlined workflow for transforming NPR's Planet Money "Money Trees" podcast episodes into organized, AI-enhanced notes using Google Gemini and Google Keep.
+🔗 Live Demo | 📚 Documentation | 🚀 Getting Started
 
-[![GitHub Stars](https://img.shields.io/github/stars/zwanski2019/podcast-notes-npr-money-trace?style=flat-square)]()
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)]()
+▶️ **Listen to the Original Podcast**  
+<iframe src="https://www.npr.org/player/embed/455941812/455951673" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## 🌟 Features
+*A streamlined workflow for transforming NPR's Planet Money "Money Trees" podcast episodes into organized, AI-enhanced notes using Google Gemini and Google Keep.*
 
-- **AI-Powered Summarization**: Leverage Google Gemini for real-time insights
-- **Cross-Platform Sync**: Seamless integration with Google Keep
-- **Structured Documentation**: Step-by-step visual guide
-- **Multi-Device Access**: Cloud-based note management
+[![GitHub Stars](https://img.shields.io/github/stars/zwanski2019/podcast-notes-npr-money-trace?style=for-the-badge&logo=github&color=yellow)]()
+[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)]()
+
+## 🌟 Key Features
+
+<div align="center">
+
+| 🚀 Automation | 📱 Cross-Platform | 🧠 AI Intelligence |
+|--------------|-------------------|--------------------|
+| Automated note generation | Syncs with Google ecosystem | Advanced NLP processing |
+| One-click summarization | Web & mobile access | Context-aware insights |
+| Smart tagging system | Cloud-based storage | Continuous learning model |
+
+</div>
 
 ## 📋 Workflow Overview
 
 ### 1. Podcast Listening Phase
-![Listening Interface](![image](https://github.com/user-attachments/assets/95949e0a-fe16-419f-9934-18fcd354b15f)
-")
+![Listening Interface](https://github.com/user-attachments/assets/95949e0a-fe16-419f-9934-18fcd354b15f "Podcast Player Interface")
 
 **"Money Trees" Episode Selection**  
 Begin with NPR's Planet Money episode focusing on financial ecosystems. Ideal for:
-- Financial enthusiasts
-- Economics students
-- AI workflow researchers
+- 🧑💻 Financial enthusiasts
+- 🎓 Economics students
+- 🤖 AI workflow researchers
 
 ---
 
 ### 2. AI Processing Stage
-![Gemini Interface](https://github.com/zwanski2019/podcast-notes-npr-money-trace/blob/main/Using%20Google%20Gemmi%20to%20summarize%20podcast%20content%20via.png "Google Gemini AI Interaction")
+![Gemini Interface](https://github.com/zwanski2019/podcast-notes-npr-money-trace/blob/main/Google%20Gemmi%20generating%20AI-assisted%20notes.jpg?raw=true "Google Gemini AI Interaction")
 
 **Google Gemini Commands**  
-```markdown
-1. "Summarize key financial concepts from current podcast"
-2. "Identify main arguments about money ecosystems"
-3. "Extract 5 actionable financial insights"
+```bash
+# Sample voice/text commands
+1. "Analyze current podcast segment for key economic concepts"
+2. "Compare mentioned financial models with modern practices"
+3. "Generate Q&A based on discussed topics"
