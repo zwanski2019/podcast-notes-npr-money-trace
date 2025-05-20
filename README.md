@@ -1,6 +1,7 @@
 # 🎧 AI-Powered Podcast Note-Taking System
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=AI+Podcast+Notes+Workflow+by+zwanski2019) <!-- Replace with your banner -->
+![Project Banner](![image](https://github.com/user-attachments/assets/5c096f4b-d775-4405-8831-f3356b3a2063)
+) <!-- Replace with your banner -->
 
 🔗 Live Demo | 📚 Documentation | 🚀 Getting Started
 
@@ -46,3 +47,4 @@ Begin with NPR's Planet Money episode focusing on financial ecosystems. Ideal fo
 1. "Analyze current podcast segment for key economic concepts"
 2. "Compare mentioned financial models with modern practices"
 3. "Generate Q&A based on discussed topics"
+
